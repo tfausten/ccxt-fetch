@@ -101,11 +101,11 @@
         },
         "ccxt": {
             "hashes": [
-                "sha256:11ff1de84dfcba0fd3a0d9974125e28d1db2d210199ed88caefeb77f4fce4142",
-                "sha256:8c339bd7d9ec73f7702bb1b6b15b4fb44bde8bea4c9df884dd4cadb53a773c85"
+                "sha256:aaa280f740356ca655b1972c2b9a2b6d9635c4d5adf08cf4f43f66f5cd412ee5",
+                "sha256:d1024a1b7006eed3b1a8b2f68835dc48e53faf9e07cf1593b2b1b85832469b7a"
             ],
             "index": "pypi",
-            "version": "==1.50.91"
+            "version": "==1.51.64"
         },
         "certifi": {
             "hashes": [
